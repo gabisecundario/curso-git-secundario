@@ -1,0 +1,85 @@
+commit 912c9eed92453f0a26d181a89dcda14d51224935
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Tue Jan 31 09:05:00 2023 -0300
+
+    Agregando 2 parrafos
+
+commit d822376ca707d291c44ca2984128ec535a07f138
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Tue Jan 31 08:47:00 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit b420a30acc67f4b16e95658a1ddb3843af25fb42
+Merge: bf491b6 d29197d
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Tue Jan 31 08:40:57 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit d29197d91d4d9b023132af987a86f6373bc0d280
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Tue Jan 31 08:33:04 2023 -0300
+
+    Agregando index.js al index.html
+
+commit bf491b65c0579dd1d257010ef8d3c9ddab608959
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Tue Jan 31 08:29:36 2023 -0300
+
+    Agregando style.css al index.html
+
+commit c7b4f62b074c6d3e2e8528a7894e3550d2f42024
+Merge: ae73098 06a7b51
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Mon Jan 30 16:49:46 2023 -0300
+
+    Merge branch 'js'
+
+commit 06a7b515ab89ecd3d3088fe89e4b90f2a6864fab
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Mon Jan 30 15:57:25 2023 -0300
+
+    Creando index.js
+
+commit ae730987cb1cf502fe4602820f864b17c36da0dd
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Mon Jan 30 15:51:43 2023 -0300
+
+    Creando style.css
+
+commit eb0ca11a6d72615b6aabe9be67de6e73366693e7
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Mon Jan 30 15:44:45 2023 -0300
+
+    Creando index.html
+
+commit 3be47f9a96bf39f347dff8abf15e40afd52ee32c
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Mon Jan 30 12:41:40 2023 -0300
+
+    Ignorando archivos .exe
+
+commit b8a497e3509a56fbffe0032222808d579f7df716
+Author: gabrieloporto <123959251+gabrieloporto@users.noreply.github.com>
+Date:   Mon Jan 30 10:55:34 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 3edba87d081d97f9657bd0efe76200b6a371d5b4
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Mon Jan 30 10:45:05 2023 -0300
+
+    Agregando mas contenido al README
+
+commit 98832b2d2c95673e336c9ee275dbd643ad44e68d
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Mon Jan 30 10:20:22 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit a8f5e7aff4761d533c2799207d4aa9e48b8f10b0
+Author: Gabriel Oporto <gabyoporto87@gmail.com>
+Date:   Mon Jan 30 10:14:50 2023 -0300
+
+    Primer commit 😃
